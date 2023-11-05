@@ -1,0 +1,5 @@
+size=1
+intervaloTiempoComida=10000
+intervaloBarreras=5000
+tasaAumentoComida=10
+Niveles=facil,medio,dificil
